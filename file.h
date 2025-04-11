@@ -1,5 +1,4 @@
-#ifndef file_H
-#define file_H
+
 
 int is_leap;
 int is_armstrong;
@@ -44,4 +43,3 @@ int largest(int arr[], int size) {
     return 0;
 }
 
-#endif
